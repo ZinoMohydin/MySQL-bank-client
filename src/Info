@@ -1,0 +1,3 @@
+name = root
+password = Mastermind90
+url = jdbc:mysql://127.0.0.1:3306/zinoasd?serverTimezone=UTC&useSSL=false
